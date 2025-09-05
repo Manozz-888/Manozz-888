@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hello! I'm Manojkumar Amrutha
 
-<!--
-**Manozz-888/Manozz-888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate beginner in software development, currently learning and building new projects to improve my skills.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I'm Learning
+- HTML, CSS, JavaScript
+- Python
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects I'm Working On
+- Portfolio Website
+- To-Do App
+- Simple Calculator
+
+## 🎯 Goals
+- Become a full-stack web developer
+- Contribute to open-source
+- Build real-world applications
+
+## 📫 Contact Me
+- Email: manojkumaramrutha700@gmail.com
+- LinkedIn: # 👋 Hello! I'm Manozz-888
+
+I'm a passionate beginner in software development, currently learning and building new projects to improve my skills.
+
+## 🛠️ Technologies I'm Learning
+- HTML, CSS, JavaScript
+- Python
+- Git & GitHub
+
+## 📌 Projects I'm Working On
+- Portfolio Website
+- To-Do App
+- Simple Calculator
+
+## 🎯 Goals
+- Become a full-stack web developer
+- Contribute to open-source
+- Build real-world applications
+
+## 📫 Contact Me
+- Email: yourname@example.com
+- LinkedIn: # 👋 Hello! I'm Manozz-888
+
+I'm a passionate beginner in software development, currently learning and building new projects to improve my skills.
+
+## 🛠️ Technologies I'm Learning
+- HTML, CSS, JavaScript
+- Python
+- Git & GitHub
+
+## 📌 Projects I'm Working On
+- Portfolio Website
+- To-Do App
+- Simple Calculator
+
+## 🎯 Goals
+- Become a full-stack web developer
+- Contribute to open-source
+- Build real-world applications
+
+## 📫 Contact Me
+- Email: manojkumaramrutha700@gmail.com
+- LinkedIn: https://www.linkedin.com/in/manoj-kumar-amrutha-91299a374
+
+Thanks for visiting my profile! 😊
+
