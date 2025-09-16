@@ -4,13 +4,14 @@ I'm a passionate beginner in software development, currently learning and buildi
 
 ## 🛠️ Technologies I'm Learning
 - HTML, CSS, JavaScript
+- Docker
 - Python
 - Git & GitHub
 
 ## 📌 Projects I'm Working On
-- Portfolio Website
-- To-Do App
-- Simple Calculator
+- simple banking application
+- whether-cli
+- ci-cd
 
 ## 🎯 Goals
 - Become a full-stack web developer
