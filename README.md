@@ -10,8 +10,8 @@ I'm a passionate beginner in software development, currently learning and buildi
 
 ## 📌 Projects I'm Working On
 - simple banking application
-- whether-cli
-- ci-cd
+- insurance claming app
+- T20WC 2024 Analysis through mySQL
 
 ## 🎯 Goals
 - Become a full-stack web developer
@@ -21,6 +21,7 @@ I'm a passionate beginner in software development, currently learning and buildi
 ## 📫 Contact Me
 - Email: manojkumaramrutha700@gmail.com
 - LinkedIn: https://www.linkedin.com/in/manoj-kumar-amrutha-91299a374
+- cantact: 8886718096
 
 Thanks for visiting my profile! 😊
 
