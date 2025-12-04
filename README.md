@@ -7,6 +7,9 @@ I'm a passionate beginner in software development, currently learning and buildi
 - Docker
 - Python
 - Git & GitHub
+- SQL
+- Power BI
+- Advanced Exel 
 
 ## 📌 Projects I'm Working On
 - simple banking application
